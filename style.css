@@ -1,0 +1,61 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.title {
+	height: 100px;
+	width: 100vw;
+	background: black;
+	color: white;
+}
+
+p {
+	font-size: 30px;
+	position: fixed;
+	top: 35px;
+	left: 570px;
+}
+
+.danhsach table{
+	width: 80vw;
+	text-align: center;
+	margin-top: 20px;
+	margin-left: 140px;
+}
+
+.list table tr td,th {
+	border: 1px solid black;
+}
+
+.list table tr th {
+	background: black;
+	color: white;
+	border: 1px solid white;
+	border-radius: 10%;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+img {
+	width: 100px;
+}
+.button {
+	margin-top: 10px;
+	margin-left: 140px;
+}
+
+.button button{
+	border-radius: 10%;
+	height: 50px;
+	width: 100px;
+	cursor: pointer;
+}
+
+.button button:hover{
+	background: black;
+	color: white;
+}
+
